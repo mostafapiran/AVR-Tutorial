@@ -3,6 +3,6 @@
 
 
 <p align="center">
- <img src="https://github.com/mostafapiran/AVR-Tutorial/blob/main/etc_doc/maxresdefault.jpg">
+ <img src="https://github.com/mostafapiran/AVR-Tutorial/blob/main/Doc/maxresdefault.jpg">
 
 </p>
