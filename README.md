@@ -4,6 +4,7 @@
 
 <p align="center">
  <img src="https://github.com/mostafapiran/AVR-Tutorial/blob/main/Doc/maxresdefault.jpg">
+ <img src="https://github.com/mostafapiran/AVR-Tutorial/blob/main/1.jpg">
 </p>
 
 ## Contributions
